@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "929384580361",
+    "firebase_url": "https://ratethefarm.firebaseio.com",
+    "project_id": "ratethefarm",
+    "storage_bucket": "ratethefarm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929384580361:android:8c5ed0e66961384d",
+        "android_client_info": {
+          "package_name": "com.example.msrit.ratethefarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929384580361-df12sdoc8nj2io1mc5qn2l8vuabbiln7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.msrit.ratethefarm",
+            "certificate_hash": "5963b05644b961333d0a6787f84aea74b53e5d9c"
+          }
+        },
+        {
+          "client_id": "929384580361-hkqpj6ndui27set6hqp7gko1sts0jiej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.msrit.ratethefarm",
+            "certificate_hash": "5989d1d7d9848b5c5bdc1b33ef629aa662e1f415"
+          }
+        },
+        {
+          "client_id": "929384580361-a8lv5vbosohbknomhbv91a5t757rp95g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.msrit.ratethefarm",
+            "certificate_hash": "933d2db206385515409ee66e4c93934b4d6b62b2"
+          }
+        },
+        {
+          "client_id": "929384580361-t8l6lrkhc401v9qmi0ftuf8nsd0nolpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYU3vP1x49y3DF4r1GbY0RkT1KObsQ3fw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929384580361-t8l6lrkhc401v9qmi0ftuf8nsd0nolpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
